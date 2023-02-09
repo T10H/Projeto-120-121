@@ -1,0 +1,22 @@
+body{
+    background-color: cyan;
+}
+
+h4, p{
+    color: #4e0d5df3;
+    font-weight: lighter;
+}
+
+b, h3, h2{
+    color: #8349ce;
+    font-weight: lighter;
+}
+
+img{
+    width: 250;
+    height: 200;
+}
+
+#conclusao{
+    color: #0011ff;
+}
